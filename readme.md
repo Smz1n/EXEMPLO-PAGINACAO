@@ -1,0 +1,1 @@
+Utilizei nesse projeto FRONTEND,BACKEND,MYSQL.
